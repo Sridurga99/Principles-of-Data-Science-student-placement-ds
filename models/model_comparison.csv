@@ -1,0 +1,5 @@
+Model,Test Accuracy,CV Accuracy
+Logistic Regression,0.8567,0.8442708333333332
+Decision Tree,1.0,1.0
+Random Forest,1.0,1.0
+XGBoost,1.0,1.0
